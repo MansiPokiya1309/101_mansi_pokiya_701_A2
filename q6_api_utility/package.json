@@ -1,0 +1,13 @@
+{
+  "name": "api-utility",
+  "version": "1.0.0",
+  "description": "Weather API utility frontend and backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  }
+}
